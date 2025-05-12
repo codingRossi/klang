@@ -21,6 +21,9 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
-  }
+    "tailwindcss": "^4",
+    "@types/bun": "latest"
+  },
+  "module": "index.ts",
+  "type": "module"
 }
